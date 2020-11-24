@@ -1,2 +1,4 @@
 # JoKenPo
-Algoritmo basico de um jokenpo
+Algoritmo basico de um jokenpo feito em curso online
+
+(JAVA)
